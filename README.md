@@ -1,3 +1,9 @@
 # helloworld
-This is a Slack-GitHub Integration Exercise
-Commit exercise description
+Hello!
+This is day one of my GitHub journey.
+May it be a  fruitful one!!
+
+
+
+
+
